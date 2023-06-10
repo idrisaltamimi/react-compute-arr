@@ -1,0 +1,23 @@
+{
+  "name": "react-compute-arr",
+  "version": "1.0.0",
+  "description": "compute an array of numbers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/idrisaltamimi/react-compute-arr.git"
+  },
+  "keywords": [
+    "react-compute",
+    "compute"
+  ],
+  "author": "Idris AlTamimi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/idrisaltamimi/react-compute-arr/issues"
+  },
+  "homepage": "https://github.com/idrisaltamimi/react-compute-arr#readme"
+}
