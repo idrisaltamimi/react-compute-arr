@@ -1,5 +1,5 @@
-import { type ReactNode } from "react"
-import './Button.css'
+import React, { type ReactNode } from "react"
+import "./Button.css"
 
 type ButtonProps = {
   children: ReactNode
