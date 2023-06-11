@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.btn {
+  background-color: black;
+  font-size: 3rem;
+  padding: 1em 2.25em;
+  color: white;
+}
