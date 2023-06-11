@@ -1,6 +1,6 @@
 {
   "name": "react-compute-arr",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "compute an array of numbers",
   "main": "src/index.ts",
   "files": [
